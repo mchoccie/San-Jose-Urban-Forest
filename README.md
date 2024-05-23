@@ -9,3 +9,11 @@
 - Calculate overall tree canopy coverage for any given aerial imagery dataset
 - From aerial imagery, produce tree bounding boxes used to derive location information for individual trees and their canopy area coverage
 - Convert the generated data to GeoJSON and Shapefile formats so that others, like city workers, can use the data on existing Geographic Information System (GIS) software
+
+## Results
+Results: 
+- Using 2022 aerial imagery from the California Department of Fish and Wildlife, the fine tuned model had a 0.65 box recall
+- Calculated the City of San Jose had 21,285 Acres of tree canopy
+- Notable comparison: Google's Environmental Insights Explorer calculated the City of San Jose has 81 square kilometers (20,015.5 Acres) of tree canopy
+![Pre-Trained Model on Detecting Tree Canopy](PreTrainedVersion2.png)
+![Trained Model on Detecting Tree Canopy](PreTrainedVersion2.png)
