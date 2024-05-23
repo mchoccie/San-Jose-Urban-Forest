@@ -1,0 +1,17 @@
+{
+  "url": "https://map.dfg.ca.gov/arcgis/services/Base_Remote_Sensing/NAIP_2022/ImageServer/WMSServer?",
+  "parameter": {
+    "service": "WMS",
+    "request": "GetMap",
+    "layers": 0,
+    "style": "",
+    "format": "image/png",
+    "transparent": true,
+    "version": "1.1.1",
+    "width": 256,
+    "height": 256,
+    "srs": "EPSG:3857",
+    "crs": "EPSG:3857"
+  },
+  "concurrency": 8
+}
