@@ -1,5 +1,8 @@
 # San-Jose-Urban-Forest
 
+## Achievements
+Winner in the 2024 SJSU RSCA Competition
+
 ## Problem
 - The City of San Jose’s tree canopy has been shrinking at an alarming rate. From 2012 to 2018 the City lost 1,728 acres or 2.7 square miles.
 - The City has limited data and resources to track its tree canopy.
