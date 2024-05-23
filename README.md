@@ -18,13 +18,8 @@ Results:
 - Using 2022 aerial imagery from the California Department of Fish and Wildlife, the fine tuned model had a 0.65 box recall
 - Calculated the City of San Jose had 21,285 Acres of tree canopy
 - Notable comparison: Google's Environmental Insights Explorer calculated the City of San Jose has 81 square kilometers (20,015.5 Acres) of tree canopy
+- The images below show case the results of our model
 <p>
-    <figure>
-        <img src="PreTrainedVersion2.png" alt="Image 1" style="width:45%; display:inline-block;">
-        <figcaption>Pre Trained Version on San Jose Image</figcaption>
-    </figure>
-    <figure>
-        <img src="FineTunedVersion2.png" alt="Image 2" style="width:45%; display:inline-block;">
-        <figcaption>Fine Tuned Version on San Jose Image</figcaption>
-    </figure>
+    <img src="PreTrainedVersion2.png" alt="Image 1" style="width:45%; display:inline-block;">
+    <img src="FineTunedVersion2.png" alt="Image 2" style="width:45%; display:inline-block;">
 </p>
